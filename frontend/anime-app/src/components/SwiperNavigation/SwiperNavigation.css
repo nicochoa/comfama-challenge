@@ -1,0 +1,12 @@
+.swiper-nav-btns{
+    position: absolute;
+    z-index: 10;
+    display: block;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
